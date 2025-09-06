@@ -1,4 +1,5 @@
-Project: Employee Attrition Analysis at Salifort Motors
+# Project: Employee Attrition Analysis at Salifort Motors
+
 This repository contains the code and analysis for a capstone project focused on understanding and predicting employee attrition at Salifort Motors, a fictional company. The goal of this project was to provide the Human Resources department with data-driven insights and a predictive tool to improve employee retention.
 
 Project Summary
